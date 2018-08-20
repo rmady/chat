@@ -1,0 +1,17 @@
+/config.php
+/chat.txt
+*~
+*.swp
+/tags
+/TAGS
+/cscope.*
+/.patches/
+/.idea/
+/nbproject/
+CVS
+.DS_Store
+/.settings/
+/.project
+/.buildpath
+/.cache
+/node_modules/
